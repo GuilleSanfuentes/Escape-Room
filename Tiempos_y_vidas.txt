@@ -1,0 +1,1 @@
+["3600", "2700", "1800", "5", "4", "3", "Para cambiar los tiempos y las vidas, solo debes cambiar el valor en segundos. el 1ero y el 4to son el facil, el 2do y el 5to son el medio, y el 3ero y el 6to son el dificil. El programa necesita que este en estas mismas posiciones."]
